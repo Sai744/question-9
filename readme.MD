@@ -1,4 +1,6 @@
-In this, I have taken example of mysql and backend . used helm charts to deploy them. Also used replica set and image tags. Screenshots of logs and describe pods are attached below.
+* In this, I have taken example of mysql and backend .
+* Used helm charts to deploy them. Also used replica set and image tags. 
+* Screenshots of logs and describe pods are attached below.
 
 First we are creating namespace
 Kubectl create namespace expense
