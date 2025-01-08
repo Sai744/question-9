@@ -11,11 +11,12 @@ The templates contains Kubernetes resource manifests. These files define the act
 
 Output logs of the mysql helm chart
 
---
---
---
+![40](https://github.com/user-attachments/assets/ef807141-7390-4f67-a628-12c41ae03da0)
+
+![41](https://github.com/user-attachments/assets/b0a555b7-e197-4972-83a7-45d1990c08d3)
+
+![42](https://github.com/user-attachments/assets/bcb45b1f-e22d-404f-912f-520cce5ccdb7)
 
 Output logs of backend helm chart
 
---
---
+![43](https://github.com/user-attachments/assets/17f3074a-bfe2-4d53-a2ed-cee950a2a591)
