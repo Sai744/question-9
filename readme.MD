@@ -7,11 +7,13 @@ Kubectl create namespace expense
 
 For every helm deployment we have Chart.yaml, values.yaml and templates folder which are mandatory.
 
-The Chart.yaml file is the metadata file of a Helm chart. It contains information that defines the chart, such as its name, version, description, and dependencies.
-The values.yaml file is where you define the default values for the variables used in your Helm chart’s templates. This allows users to customize their deployments when installing the chart by overriding the default values.
-The templates contains Kubernetes resource manifests. These files define the actual Kubernetes objects (such as Deployments, Services) that will be created when the chart is deployed.
+The __Chart.yaml__ file is the metadata file of a Helm chart. It contains information that defines the chart, such as its name, version, description, and dependencies.
 
-Output logs of the mysql helm chart
+The __values.yaml__ file is where you define the default values for the variables used in your Helm chart’s templates. This allows users to customize their deployments when installing the chart by overriding the default values.
+
+The __templates__ contains Kubernetes resource manifests. These files define the actual Kubernetes objects (such as Deployments, Services) that will be created when the chart is deployed.
+
+* Output logs of the mysql helm chart
 
 ![40](https://github.com/user-attachments/assets/ef807141-7390-4f67-a628-12c41ae03da0)
 
@@ -19,6 +21,6 @@ Output logs of the mysql helm chart
 
 ![42](https://github.com/user-attachments/assets/bcb45b1f-e22d-404f-912f-520cce5ccdb7)
 
-Output logs of backend helm chart
+* Output logs of backend helm chart
 
 ![43](https://github.com/user-attachments/assets/17f3074a-bfe2-4d53-a2ed-cee950a2a591)
